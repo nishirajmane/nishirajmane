@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **manenishiraj@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13yPI3WgLy6zwhlbtLV67RrY8qgFyqTG7/view?usp=drive_link](https://drive.google.com/file/d/13yPI3WgLy6zwhlbtLV67RrY8qgFyqTG7/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13yPI3WgLy6zwhlbtLV67RrY8qgFyqTG7/view?usp=drive_link](https://drive.google.com/file/d/1Uvl0vhUD2LaQYkRRU8uiX1VokLiHVc7y/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
