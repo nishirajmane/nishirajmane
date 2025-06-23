@@ -1,22 +1,50 @@
-<h3 align="center">Software QA Tester with 10+ months of hands-on experience in manual and automation testing of web and enterprise-level applications.</h3>
+<h1 align="center">Hi 👋, I'm Nishiraj Mane</h1>
+<h3 align="center">Full Stack Java Developer | Automation Tester | Driven by Code & Quality</h3>
 
-- Worked with Webeeyo Softwares Pvt Ltd, Puneently working on **Selenium Testing**
 
-- Certifications I earned are **• Atlassian Agile Project Management (Certified). • Automation Testing Certified (GeeksForGeeks). • Lambda Test Software Testing Professional Certificate. • Advanced C-Programming, Agarwal Academy, Pune (Offline Course). • Prompt Engineering and Generative AI (LinkedIn Learning). • Java Certification (Great Learning Academy).**
+---
 
-- 💬 Ask me about **Selenium,Testing,JAVA,SQL**
+🌟 **About Me**
 
-- 📫 How to reach me **manenishiraj@gmail.com**
+- 👨‍💻 I specialize in **Full Stack Java Development** and **Automation Testing**
+- 🚀 Skilled in building scalable apps and robust automation frameworks
+- 🔧 Currently working on: `AutoTestHub`, `Playwright AI Bot`, and full-stack projects
+- 📫 Reach me at: [manenishiraj@gmail.com](mailto:manenishiraj@gmail.com)
+- 🌐 Visit my portfolio: [nishirajmane.netlify.app](https://nishirajmane.netlify.app)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13yPI3WgLy6zwhlbtLV67RrY8qgFyqTG7/view?usp=drive_link](https://drive.google.com/file/d/1Uvl0vhUD2LaQYkRRU8uiX1VokLiHVc7y/view?usp=drivesdk)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nishiraj-mane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishiraj-mane" height="30" width="40" /></a>
-<a href="https://instagram.com/manenishiraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishiraj.mane" height="30" width="40" /></a>
+🛠️ **Tech Stack**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+📌 **Key Projects**
+
+- 🔹 **AutoTestHub**  
+  An automation framework combining Selenium, MongoDB, and Jenkins for end-to-end test management.
+
+- 🔹 **Playwright AI Bot**  
+  AI-powered web interaction and testing bot built with Playwright.
+
+- 🔹 **Portfolio Website**  
+  Personal site showcasing my work and skills: [nishirajmane.netlify.app](https://nishirajmane.netlify.app)
+
+---
+
+---
+
+🔗 **Let's Connect**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nishirajmane" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/nishirajmane" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishirajmane&show_icons=true&locale=en&layout=compact" alt="nishirajmane" /></p>
