@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishiraj Mane</h1>
-<h3 align="center">Full Stack Java Developer | Automation Tester | Driven by Code & Quality</h3>
+<h3 align="center">Full Stack AI Developer | Automation Tester | Driven by Code & Quality</h3>
 
 
 ---
