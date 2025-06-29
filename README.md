@@ -6,7 +6,7 @@
 
 🌟 **About Me**
 
-- 👨‍💻 I specialize in **Full Stack Java Development** and **Automation Testing**
+- 👨‍💻 I specialize in **Full Stack AI Development** and **Automation Testing**
 - 🚀 Skilled in building scalable apps and robust automation frameworks
 - 🔧 Currently working on: `AutoTestHub`, `Playwright AI Bot`, and full-stack projects
 - 📫 Reach me at: [manenishiraj@gmail.com](mailto:manenishiraj@gmail.com)
