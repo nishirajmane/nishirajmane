@@ -9,7 +9,7 @@
 - 🚀 I love building **scalable apps** and **robust testing frameworks**  
 - 🔭 Currently working on: `AutoTestHub`, `Playwright AI Bot`, `VisEmotion`, and `PrepBot`  
 - 📫 Reach me at: **manenishiraj@gmail.com**  
-- 🌐 Portfolio: [nishirajmane.netlify.app](https://nishirajmane.netlify.app)
+- 🌐 Portfolio: [nishirajmane.netlify.app](https://nishirajmaneai.netlify.app)
 
 ---
 
