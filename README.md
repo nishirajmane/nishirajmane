@@ -1,36 +1,44 @@
 # Hi 👋, I'm Nishiraj Mane  
-**Full Stack AI Developer | Automation Tester | Driven by Code & Quality**  
+**Full Stack AI Developer | Automation Tester | Creative UI/UX Designer**  
 
 ---
 
 ## 🌟 About Me  
-- 👨‍💻 I specialize in **Full Stack AI Development** and **Automation Testing**  
-- 🚀 Passionate about building **scalable apps** and **robust testing frameworks**  
-- 🔭 Currently working on: **AutoTestHub**, **Playwright AI Bot**, **VisEmotion**, and **PrepBot**  
+- 👨‍💻 Currently working with **DemandTech** & **Demandify Media**  
+- 🚀 Building **scalable apps**, **AI-driven automation**, and **engaging UI/UX designs**  
+- 🔭 Actively working on:  
+    - ✅ **AutoTestHub** – Unified Test Automation Platform (Selenium + TestNG + MongoDB + Jenkins)  
+    - ✅ **Playwright AI Bot** – AI-powered browser testing with Playwright + Node.js + ML  
+    - ✅ **VisEmotion** – Emotion-based UI testing using Selenium + DeepFace + OpenCV  
+    - ✅ **PrepBot** – Offline AI Interview Bot for DSA, ML, and System Design using LLMs  
+    - ✅ **DemandTech Website** – Advanced web design & interactive components using Next.js + Tailwind  
 - 📫 Reach me at: **[manenishiraj@gmail.com](mailto:manenishiraj@gmail.com)**  
 - 🌐 Portfolio: **[nishirajmaneai.netlify.app](https://nishirajmaneai.netlify.app)**  
 
 ---
 
-## 🛠 Languages & Tools  
+## 🛠 Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,react,nextjs,html,css,selenium,playwright,docker,mongodb,git,figma" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,react,nextjs,tailwind,html,css,selenium,playwright,docker,mongodb,git,figma" />
 </p>
 
 ---
 
-## 📌 Key Projects  
+## 📌 Featured Projects  
+### 🔹 **DemandTech Website**  
+🌐 Responsive website with **Next.js, TailwindCSS**, and **interactive 3D elements** for tech-driven experiences.  
+
+### 🔹 **AutoTestHub**  
+🚀 Complete **Test Automation Hub** integrating Selenium, TestNG, MongoDB, and Jenkins CI/CD.  
+
 ### 🔹 **Playwright AI Bot**  
-AI-powered browser testing bot using **Playwright + Node.js + ML**.  
+🤖 AI-driven browser automation using **Playwright + Node.js + Machine Learning** for intelligent testing.  
 
 ### 🔹 **VisEmotion**  
-Emotion-based UI testing tool powered by **Selenium + DeepFace + OpenCV**.  
+🎭 **Emotion-Based UI Testing Tool** powered by **Selenium + DeepFace + OpenCV** for better UX validation.  
 
 ### 🔹 **PrepBot**  
-Offline **AI Interview Bot** for **DSA, ML, and System Design** using lightweight **LLMs**.  
-
-### 🔹 **Portfolio Website**  
-Showcases my **skills, resume, and projects** — built using **HTML/CSS/JS**.  
+🧠 **Offline AI Interview Assistant** for **DSA, ML, and System Design**, using lightweight **LLMs**.  
 
 ---
 
